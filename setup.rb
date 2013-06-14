@@ -21,7 +21,7 @@ def makeFile(fname)
   end
   File.new fname, "w"
 end
-puts out_name
+
 dataFile = makeFile (File.join out_name, "data")
 offFile = makeFile (File.join out_name, "offsets")
 
@@ -39,11 +39,6 @@ offsets = traffic.map do |fname|
   [File.stat(name).size].pack "L<"
 end.select do |x|
   x != nil
-end.join
+end.unshift([0].pack "L<").join
 
 offFile.write offsets
-
-# puts offsets.join
-
-# noise_traffic_dir = File.new ARGV[1], "r"
-
