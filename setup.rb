@@ -30,15 +30,18 @@ def process(inp)
   inp
 end
 
+n = 0
 # output to 2 files, the offsets and the data
 offsets = traffic.map do |fname|
   next if fname == '.' or fname == '..'
   name = File.join traffic, fname
   f = File.new name, "r"
   dataFile.write process(f.read)
-  [File.stat(name).size].pack "L<"
+  oldN = n
+  n += File.stat(name).size
+  [oldN].pack "L<"
 end.select do |x|
   x != nil
-end.unshift([0].pack "L<").join
+end.join
 
 offFile.write offsets

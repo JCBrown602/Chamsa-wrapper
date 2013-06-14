@@ -1,10 +1,18 @@
+DEPENDENCIES
+============
+Have Ruby installed.
+Install CHamsa using a patched version of sary.
+A working version of CHamsa including the patch for sary can be found [here](https://github.com/maxsnew/CHamsa).
+
 SETUP
 =====
 
-# setup.rb
+setup.rb
+--------
 Run setup.rb on 2 directories full of traffic files with the desired output directories.
 
-# ds
+ds
+--
 Run
 
 `ds -w [odir]/data.ary [odir]/data`
