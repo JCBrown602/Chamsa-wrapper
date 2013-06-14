@@ -1,0 +1,1 @@
+[["Domain", "img0.pclady.com.cn"], ["Request", "http://img0.pclady.com.cn/pclady/null/2012news/zine/1305/2.jpg"], ["Method", "GET"], ["header", "User-Agent "]]

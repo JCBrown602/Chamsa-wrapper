@@ -1,0 +1,1 @@
+[["Domain", "www.bet365.com"], ["Request", "http://www.bet365.com/home/images/landingpage/imgs/col4/"]][["Domain", "www.bet365.com"], ["Request", "http://www.bet365.com/home/images/landingpage/imgs/col4/"]]

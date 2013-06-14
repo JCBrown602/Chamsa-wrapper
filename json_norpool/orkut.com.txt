@@ -1,0 +1,1 @@
+[["Domain", "ajax.googleapis.com"], ["Request", "https://ajax.googleapis.com/ajax/services/f"]][["Domain", "ajax.googleapis.com"], ["Request", "https://ajax.googleapis.com/ajax/services/f"]]

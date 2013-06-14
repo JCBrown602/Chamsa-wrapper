@@ -1,0 +1,1 @@
+[["Domain", "static.ak.facebook.com"], ["Request", "http://static.ak.facebook.com/connect/xd_arbiter.php?version=24#cb=f372e970f8&origin=http://vk.com/f136c588b&domain=vk.com&relation=parent&error=unknown_user"], ["Method", "GET"], ["header", "User-Agent Mozilla/5.0 ("]]

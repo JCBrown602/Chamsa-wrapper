@@ -1,0 +1,1 @@
+[["Domain", "content.yieldmanager.edgesuite.net"], ["Request", "http://content.yieldmanager.edgesuite.net/atoms/6d/ca/13/76/6dca13769ca517ec3506d022183574d.gif"], ["Method", "GET"], ["header", "User-Agen"]]

@@ -1,0 +1,1 @@
+[["Domain", "kpi.plug.it"], ["Request", "http://kpi.plug.it/tracks/bi/images/RT_A.gif?id=HPST_"]]

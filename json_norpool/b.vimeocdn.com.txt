@@ -1,0 +1,1 @@
+[["Domain", "a.vimeocdn.com"], ["Request", "http://a.vimeocdn.com/p/1.4.31/js/player.de"]][["Domain", "ri.revolvermaps.com"], ["Request", "http://ri.revolvermaps.com/c.php?i=8tl63ob0iu9&"]]

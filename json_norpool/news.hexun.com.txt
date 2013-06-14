@@ -1,0 +1,1 @@
+[["Domain", "minpic.quote.stock.hexun.com"], ["Request", "http://minpic.quote.stock.hexun.com/Stock_QTMI/QTMI_1_000001.xml?random=1369960212672"]]

@@ -1,0 +1,1 @@
+[["Domain", "ds.reson8.com"], ["Request", "http://ds.reson8.com/insights.gif?r"]]

@@ -1,0 +1,1 @@
+[["Domain", "pagead2.googlesy"], ["Request", "http://pagead2.googlesy"]][["Domain", "pagead2.googlesy"], ["Request", "http://pagead2.googlesy"]][["Domain", "pagead2.googlesy"], ["Request", "http://pagead2.googlesy"]][["Domain", "pagead2.googlesy"], ["Request", "http://pagead2.googlesy"]]

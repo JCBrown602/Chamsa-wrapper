@@ -1,0 +1,1 @@
+[["Domain", "usa1.ffcdn.net"], ["Request", "http://usa1.ffcdn.net/images/SCRhome_f8.png"], ["Method", "GET"], ["header", "User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.12 (KHTML"]]

@@ -1,0 +1,1 @@
+[["Domain", "f.i.uol.com.br"], ["Request", "http://f.i.uol.com.br/folha/homepage/images/13150798.jpeg"], ["Method", "GET"], ["header", "User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.12 (KHTML, like Gecko) QtTestBrowser"]][["Domain", "bn.imguol.com"], ["Request", "http://bn.imguol.com"]][["Domain", "bn.imguol.com"], ["Request", "http://bn.imguol.com"]]

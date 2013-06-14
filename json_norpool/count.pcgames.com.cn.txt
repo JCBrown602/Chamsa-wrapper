@@ -1,0 +1,1 @@
+[["Domain", "img0.pchouse.com.cn"], ["Request", "http://img0.pchouse.com.cn/pchouse/dapei/case/1305/05312.jpg"], ["Method", "GET"], ["header", "User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.1"]]

@@ -1,0 +1,1 @@
+[["Domain", "img.zeen.com"], ["Request", "https://img.zeen.com/v2/del-content/9b4bd292cfd6785721757c02408a7ed1-orig?w=700&h=400&fm=jpg&q=50&hs=1"], ["Method", "GET"], ["header", "User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.12 (KHTML, like Gecko) QtTestBrowser/0.1 Safari/535.12"]]

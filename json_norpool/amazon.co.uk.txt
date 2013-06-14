@@ -1,0 +1,1 @@
+[["Domain", "g-ecx.images-amazon."], ["Request", "http://g-ecx.images-amazon."]][["Domain", "g-ecx.images-amazon."], ["Request", "http://g-ecx.images-amazon."]]

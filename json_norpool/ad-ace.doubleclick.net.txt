@@ -1,0 +1,1 @@
+[["Domain", "um.si"], ["Request", "http://um.si"]][["Domain", "um.si"], ["Request", "http://um.si"]][["Domain", "www.facebook.com"], ["Request", "https://www.facebook.com/connect/p"]][["Domain", "dfdbz2tdq3k01.cloudfront.net"], ["Request", "http://dfdbz2tdq3k01.cloudfront.net/js/2.1.0/IbtR"]]

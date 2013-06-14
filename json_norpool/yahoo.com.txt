@@ -1,0 +1,1 @@
+[["Domain", "l4.yimg.com"], ["Request", "http://l4.yimg.com/a/i/us/sp/v/nhl/teams/1/50x50w/det.gif"], ["Method", "GET"], ["header", "User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleW"]][["Domain", "l4.yimg.com"], ["Request", "http://l4.yimg.com/a/i/us/sp/v/nhl/teams/1/50x50w/det.gif"], ["Method", "GET"], ["header", "User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleW"]]

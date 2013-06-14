@@ -1,0 +1,1 @@
+[["Domain", "i.walmartimages.com"], ["Request", "http://i.walmartimages.com/i/p/00/88/65/24/00/0088652400838_Color_Brown_SW_180X180.jpg"], ["Method", "GET"], ["header", "User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.12 (KHTML, like Gecko) QtTestBrowser/0.1 Safari/535.12"], ["header", "Referer http://www.walmart.com/"], ["header", "Origin http://www."]]

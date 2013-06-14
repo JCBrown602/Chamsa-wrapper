@@ -1,0 +1,1 @@
+[["Domain", "platform.twitter.com"], ["Request", "https://platform.twitter.com/widgets/hub.html"], ["Method", "GET"], ["header", "User-Agent Mozilla/5.0 (X11; Linux x86"]][["Domain", "platform.twitter.com"], ["Request", "https://platform.twitter.com/widgets/hub.html"], ["Method", "GET"], ["header", "User-Agent Mozilla/5.0 (X11; Linux x86"]]

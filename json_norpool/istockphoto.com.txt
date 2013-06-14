@@ -1,0 +1,1 @@
+[["Domain", "ib.adnxs.com"], ["Request", "http://ib.adnxs.com"]][["Domain", "ib.adnxs.com"], ["Request", "http://ib.adnxs.com"]]

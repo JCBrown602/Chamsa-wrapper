@@ -1,0 +1,1 @@
+[["Domain", "ib.adnxs.com"], ["Request", "http://ib.adnxs.com/seg?add=265725&t=2"], ["Method", "GET"], ["header", "User-Agent Mozilla/5.0 (X11; L"]][["Domain", "ib.adnxs.com"], ["Request", "http://ib.adnxs.com/seg?add=265725&t=2"], ["Method", "GET"], ["header", "User-Agent Mozilla/5.0 (X11; L"]]

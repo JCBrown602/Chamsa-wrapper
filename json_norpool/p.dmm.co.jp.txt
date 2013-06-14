@@ -1,0 +1,1 @@
+[["Domain", "p.dmm.co.jp"], ["Request", "http://p.dmm.co.jp/p/navi/global/bg_header.gif"], ["Method", "GET"], ["header", "Use"]]

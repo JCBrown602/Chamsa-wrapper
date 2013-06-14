@@ -1,0 +1,1 @@
+[["Domain", "as.sexad.net"], ["Request", "http://as.sexad.net/as/if?p=youjizz&w=728&h=90"], ["Method", "GET"], ["header", "User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.12 (KHTML, like Gecko) QtTestBrowser/0.1 Safari/535.12"], ["header", "Accept text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"], ["header", "Referer http://syndication.traf"]]

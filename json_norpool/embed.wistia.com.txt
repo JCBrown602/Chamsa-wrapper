@@ -1,0 +1,1 @@
+[["Domain", "embed.wistia.com"], ["Request", "http://embed.wistia.com/deliveries/96eeeb8eeb68e868ef4640b2ad9490fbba923209.jpg?image_play_button=1&image_crop_resized=499x312&image_play"]]

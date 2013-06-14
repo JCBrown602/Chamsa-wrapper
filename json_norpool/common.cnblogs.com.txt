@@ -1,0 +1,1 @@
+[["Domain", "pagead2.googlesyndication."], ["Request", "http://pagead2.googlesyndication."]][["Domain", "pagead2.googlesyndication."], ["Request", "http://pagead2.googlesyndication."]][["Domain", "pagead2.googlesyndication."], ["Request", "http://pagead2.googlesyndication."]][["Domain", "pagead2.googlesyndication."], ["Request", "http://pagead2.googlesyndication."]]

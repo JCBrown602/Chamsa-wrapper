@@ -1,0 +1,1 @@
+[["Domain", "www.samsung.com"], ["Request", "http://www.samsung.com/us/images/homepage/products/WB150F_14megapixel_v6.png"], ["Method", "GET"]]

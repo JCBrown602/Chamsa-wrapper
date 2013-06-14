@@ -1,0 +1,1 @@
+[["Domain", "one.cam4ads.com"], ["Request", "http://one.cam4ads.com/www/delivery/ac.php?bannerid=451&zoneid=19&target=_blank&withtext=0&source=&tim"]][["Domain", "one.cam4ads.com"], ["Request", "http://one.cam4ads.com/www/delivery/ac.php?bannerid=451&zoneid=19&target=_blank&withtext=0&source=&tim"]]

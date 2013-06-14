@@ -1,0 +1,1 @@
+[["Domain", "cdn.engine.phn.doublepimp.com"], ["Request", "http://cdn.engine.phn.doublepimp.com/Scripts/MediaScripts/PopUnder.js"], ["Method", "GET"]][["Domain", "cdn.engine.phn.doublepimp.com"], ["Request", "http://cdn.engine.phn.doublepimp.com/Scripts/MediaScripts/PopUnder.js"], ["Method", "GET"]]

@@ -1,0 +1,1 @@
+[["Domain", "ssl.gstatic.com"], ["Request", "https://ssl.gstatic.com/s2/oz/images/stars/po/Publisher/sprite4-a67f741843ffc4220554c34bd01bb0bb.png"], ["Method", "GET"], ["header", "User-Age"]][["Domain", "ssl.gstatic.com"], ["Request", "https://ssl.gstatic.com/s2/oz/images/stars/po/Publisher/sprite4-a67f741843ffc4220554c34bd01bb0bb.png"], ["Method", "GET"], ["header", "User-Age"]]

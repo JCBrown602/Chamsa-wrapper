@@ -1,0 +1,1 @@
+[["Domain", "img-cdn.mediaplex.com"], ["Request", "http://img-cdn.mediaplex.com/0/711/53200/1x1_for_Impressions.gif"]][["Domain", "img-cdn.mediaplex.com"], ["Request", "http://img-cdn.mediaplex.com/0/711/53200/1x1_for_Impressions.gif"]]

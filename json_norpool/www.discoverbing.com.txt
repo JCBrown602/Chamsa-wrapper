@@ -1,0 +1,1 @@
+[["Domain", "www.bing.com"], ["Request", "http://www.bing.com/fd/sa/9_00_0_1892573/WindowsLiveConnect_c.js"], ["Method", "GET"], ["header", "User-Agent Mozilla/5.0 (X11; Linux x86_64"]][["Domain", "www.bing.com"], ["Request", "http://www.bing.com/fd/sa/9_00_0_1892573/WindowsLiveConnect_c.js"], ["Method", "GET"], ["header", "User-Agent Mozilla/5.0 (X11; Linux x86_64"]]

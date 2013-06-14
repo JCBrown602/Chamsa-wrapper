@@ -1,0 +1,1 @@
+[["Domain", "va1en.sftcdn.net"], ["Request", "http://va1en.sftcdn.net/shared/img/interface/softonic-logo-inline.png"], ["Method", "GET"], ["header", "User-Agent Mozilla/5.0 (X11; Li"]]

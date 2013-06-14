@@ -1,0 +1,1 @@
+[["Domain", "b.scorecardresearch.com"], ["Request", "http://b.scorecardresearch.com/b?c1=8&c2=6135404&c3=9&c4=18878&c10=3559496&ns__t"]]

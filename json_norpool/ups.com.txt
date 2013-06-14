@@ -1,0 +1,1 @@
+[["Domain", "www.ups.com"], ["Request", "http://www.ups.com/img/icn_popup_blue.gif"], ["Method", "GET"], ["header", "User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.12 ("]][["Domain", "www.ups.com"], ["Request", "http://www.ups.com/img/icn_popup_blue.gif"], ["Method", "GET"], ["header", "User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.12 ("]]

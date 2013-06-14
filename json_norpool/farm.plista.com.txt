@@ -1,0 +1,1 @@
+[["Domain", "www.welt.de"], ["Request", "http://www.welt.de/img/umwelt/"]]

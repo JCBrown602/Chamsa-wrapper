@@ -1,0 +1,1 @@
+[["Domain", "cookex.amp.yahoo.com"], ["Request", "http://cookex.amp.yahoo.com/v2/cexposer/SIG=138a01fa0/*http%3"]][["Domain", "img-cdn.mediaplex.com"], ["Request", "http://img-cdn.mediaplex.com/0/711/53200/1x1_for_Impressions.gif"]]

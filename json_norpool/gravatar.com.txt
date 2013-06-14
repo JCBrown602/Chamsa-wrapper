@@ -1,0 +1,1 @@
+[["Domain", "r.twimg.com"], ["Request", "https://r.twimg.com/jot?l=%7B%22_category_%22%3A%22tfw_client_event%22%2C%22client_version%22%3A%222.0%3Aundefined%22%2C%22widg"]]

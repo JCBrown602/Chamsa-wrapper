@@ -1,0 +1,1 @@
+[["Domain", "ping.chartbeat.net"], ["Request", "http://ping.chartbeat.net/ping?h=atwiki.jp&p"]][["Domain", "ping.chartbeat.net"], ["Request", "http://ping.chartbeat.net/ping?h=atwiki.jp&p"]][["Domain", "ping.chartbeat.net"], ["Request", "http://ping.chartbeat.net/ping?h=atwiki.jp&p"]][["Domain", "ping.chartbeat.net"], ["Request", "http://ping.chartbeat.net/ping?h=atwiki.jp&p"]]

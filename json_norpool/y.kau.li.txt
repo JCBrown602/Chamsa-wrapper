@@ -1,0 +1,1 @@
+[["Domain", "ck.nikkeibp.co.jp"], ["Request", "http://ck.nikkeibp.co.jp/bprt"]]
