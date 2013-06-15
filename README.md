@@ -33,3 +33,10 @@ Run
 `siggen -S [user_traffic_odir] -N [noise_traffic_odir] -G [output_dir]`
 
 where output_dir is empty.
+
+GENERATED FILES
+===============
+The json_suspool and json_norpool directories were used with setup.rb and ds to generate the suspool and norpool directories which were used as input to siggen.
+The output directory contains the generated signatures using the command
+
+`siggen -S suspool -N norpool -G output`
